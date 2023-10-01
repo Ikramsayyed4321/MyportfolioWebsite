@@ -10,11 +10,11 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Ikramsayyed4321",
   resume:
-    "https://drive.google.com/file/d/1ffZrcMcn8UatXGIaautbbqpV7ADNaETA/view?usp=sharing",
-  linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-  twitter: "https://twitter.com/RishavChanda",
-  insta: "https://www.instagram.com/rishav_chanda/",
-  facebook: "",
+    "https://drive.google.com/file/d/1etuiAzHGcMHC6FtL9ak8qy6Tg7PpKwuN/view?usp=drivesdk",
+  linkedin: "https://www.linkedin.com/in/sayyed-ikram-501561245",
+  twitter: "https://x.com/SayyedIkram7860",
+  insta: "https://instagram.com/ikramsayyed143?igshid=OGQ5ZDc2ODk2ZA==",
+  facebook: "https://www.facebook.com/profile.php?id=100008515007094&mibextid=D4KYlr",
 };
 
 export const skills = [
@@ -177,13 +177,37 @@ export const skills = [
 ];
 
 export const experiences = [
+
+  {
+    id: 1,
+    img: "https://firebasestorage.googleapis.com/v0/b/ikramsayyedportfolio.appspot.com/o/LU%20Logo.jpeg?alt=media&token=301b1d1d-da63-4849-9f39-6f77dba067fc",
+    role: "Full Stack Web Developer ",
+    company: "Let's Upgrade",
+    date: "August 2022 - January 2023",
+    desc: " Worked  on the frontend and the backend of the web application using ReactJS, Redux,Node JS , Mongo DB, Express and Material UI .",
+    skills: [
+      "ReactJS",
+      "Redux",
+      "NodeJs",
+      "Material UI",
+      "HTML",
+      "CSS",
+      "Express",
+      "Mongo DB",
+      "TypeScript",
+      " API Integration",
+      "Problem solving",
+      "JavaScript",
+    ],
+    doc: "",
+  },
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
+    img: "https://firebasestorage.googleapis.com/v0/b/ikramsayyedportfolio.appspot.com/o/KVCH%20logo.jpeg?alt=media&token=e8ab0d44-f97a-47ef-a758-d560304ca92c",
     role: "Python Developer Intern",
     company: "KVCH  Pvt. Ltd.",
     date: "Feb 2023 - July 2023",
-    desc: "Working on kvch Platforms, managing these aspects allows me, as a python developer, to contribute to the succesful development and maintenance of software projects while ensuring code quality seccurity and performance.",
+    desc: " I Worked at kvch Platforms, managing these aspects allows me, as a python developer, to contribute to the succesful development and maintenance of software projects while ensuring code quality seccurity and performance.",
     skills: [
       "Python",
       "Django",
@@ -197,33 +221,15 @@ export const experiences = [
       " API Integration",
       "Problem solving",
     ],
-    doc: "https://media.licdn.com/dms/image/D4D2DAQFlp60ZqHuaFQ/profile-treasury-image-shrink_1280_1280/0/1691180828512?e=1692381600&v=beta&t=mM5Y_NE5EPlQhez5FAN6NLVSKcO_Ojt_9Gq3mnFGkAQ",
-  },
-  {
-    id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/neurobit.jpeg?alt=media&token=1cacbb7b-e5ea-4efb-9b3d-f5a31b9564ad",
-    role: "Frontend Engineer Intern",
-    company: "Neurobit",
-    date: "June 2023 - Present",
-    desc: "Working on the frontend of the web application using ReactJS, Redux, and Material UI.",
-    skills: [
-      "ReactJS",
-      "Redux",
-      "NodeJs",
-      "Material UI",
-      "HTML",
-      "CSS",
-      "JavaScript",
-    ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/Screenshot%20from%202023-05-28%2023-20-46.png?alt=media&token=5570f995-e8f4-4f12-bb2f-73bcf4b20730",
+    doc: "https://firebasestorage.googleapis.com/v0/b/ikramsayyedportfolio.appspot.com/o/offer%20letter%20KVCH.jpeg?alt=media&token=9debed94-74a5-47b8-9bf8-81a67d231826",
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/flipr.jpeg?alt=media&token=1d72532a-45eb-4c1a-a81a-c9bed9fec543",
-    role: "Fullstack Externship",
-    company: "Flipr",
-    date: "June 2023 - July 2023",
-    desc: "Built an employee management full stack web app used Docker and deployed on AWS ec2. I was the top performer in the program.",
+    img: "https://firebasestorage.googleapis.com/v0/b/ikramsayyedportfolio.appspot.com/o/1Stop%20logo.jpeg?alt=media&token=16e09491-88e4-4a19-9d9b-627716d7c174",
+    role: "Frontend Developer Intern",
+    company: "Raise Digital",
+    date: "August 2023 - September 2023",
+    desc: " I Worked at Raise digital  on the frontend of the web application using ReactJS, Redux, and Material UI.",
     skills: [
       "ReactJS",
       "Redux",
@@ -232,102 +238,79 @@ export const experiences = [
       "HTML",
       "CSS",
       "JavaScript",
-      "Docker",
-      "AWS",
-      "MongoDB",
     ],
+    doc: "https://firebasestorage.googleapis.com/v0/b/ikramsayyedportfolio.appspot.com/o/1stopinternship.jpeg?alt=media&token=fe497cd8-3872-4381-a4ff-e00e2c2be101",
+  
   },
-  {
-    id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/girlScript.jpeg?alt=media&token=e656a621-cf3c-4230-bf0f-e74b4cec6035",
-    role: "Open Source Contributor ",
-    company: "GirlScript Summer of Code",
-    date: "May 2023 - Present",
-    desc: "Contributing to different open-source projects and learn from industry experts",
-    doc: "https://media.licdn.com/dms/image/D4D22AQGzSpgFaR4hsQ/feedshare-shrink_800/0/1684079632872?e=1687996800&v=beta&t=i0xWn_k32Oj9SxKfc6rARSbOghXD9Ge6WyEb2p2vvrc",
-  },
-  {
-    id: 3,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/gdsc.jpeg?alt=media&token=c162329c-efaa-4be8-a173-8d3f4c48ea70",
-    role: "Android Developer",
-    company: "DSC KIIT",
-    date: "Nov2021 - Present",
-    desc: "As an Android developer at the Google Developers Student Club (GDCS), I have had the opportunity to work on exciting projects and collaborate with talented developers who share my passion for technology. Through my involvement with GDCS, I have also had the opportunity to host and participate in numerous events, including hackathons, study jams, and workshops.",
-    skills: [
-      "Leadership",
-      "Mobile Application Development",
-      "Kotlin",
-      "XML",
-      "Figma",
-    ],
-  },
-  {
-    id: 4,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Rudraksha.jpeg?alt=media&token=8f83f41e-d0a1-486f-9c7f-dd4cd1d09e8d",
-    role: "Android Developer Intern",
-    company: "Rudraksha Welffare Foundation",
-    date: "June 2021 - Oct 2021",
-    desc: "As an Android Developer Intern at Rudraksha Welfare Foundation from June 2021 to October 2021, I gained valuable hands-on experience in application development. During my tenure, I contributed to the development of the application's back-end cloud functions using Firebase and implemented a front-end with the MVVM structure, which was designed using Figma. I also added a one-to-one video call feature, conceptualized new features, and optimized app performance. This internship helped me enhance my skills in Android development and gave me an opportunity to work in a collaborative team environment.",
-    skills: [
-      "Android",
-      "Java",
-      "Kotlin",
-      "XML",
-      "Node Js",
-      "Cloud Firestore",
-      "Firebase",
-      "Figma",
-    ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/buckoid-917cf.appspot.com/o/WhatsApp%20Image%202023-05-05%20at%2012.07.39%20AM.jpeg?alt=media&token=9f0e1648-568b-422d-bd0b-1f125f722245",
-  },
+
+  
+
 ];
 
 export const education = [
+
+  
+
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
-    school: "Kalinga Institute of Industrial Technology, Bhubaneswar",
-    date: "Oct 2021 - Sep 2025",
-    grade: "8.71 CGPA",
-    desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Kalinga Institute of Industrial Technology, Bhubaneswar. I have completed 4 semesters and have a CGPA of 8.71. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others. I am also a member of the Google Developers Student Club (GDSC) at KIIT, where I am learning and working on exciting projects with a team of talented developers.",
-    degree: "Bachelor of Technology - BTech, Computer Science and Engineering",
+    img: "https://firebasestorage.googleapis.com/v0/b/ikramsayyedportfolio.appspot.com/o/LU%20Logo.jpeg?alt=media&token=301b1d1d-da63-4849-9f39-6f77dba067fc",
+    school: "Lets Upgrade",
+    date: "August 2022 - Jan 2023",
+    desc: "I am proud to announce the successful completion of the Full Stack Web Developer course at Let's Upgrade, a leading institution in web development education. This comprehensive program has equipped me with the knowledge and skills necessary to excel in the ever-evolving field of web development..",
+    degree: "Full Stack Web Developer ",
+  },
+
+  {
+    id: 0,
+    img: "https://firebasestorage.googleapis.com/v0/b/ikramsayyedportfolio.appspot.com/o/TGPCET%20logo.jpeg?alt=media&token=5d7972c2-256a-4426-b4ec-8a4901e61f70",
+    school: "Tulsiramji Gaikwad Patil College of Engineering and Technology, Nagpur",
+    date: "December 2021 - Sep 2023",
+    grade: "7.71 CGPA",
+    desc: "I am currently pursuing a Master's degree in Computer Science and Engineering at Tulsiramji Gaikwad Patil College of Engineering and Technology , Nagpur. I have completed 4 semesters and have a CGPA of 7.71. I have taken courses in Cloud Computing, Software Testing, Object-Oriented Programming, Database Management Systems, Operating Systems, and Computer Networks, among others.",
+    degree: "Master of Computer Application - Computer Science ",
+  },
+
+  {
+    id: 1,
+    img: "https://firebasestorage.googleapis.com/v0/b/ikramsayyedportfolio.appspot.com/o/CMCS%20LOgo.jpeg?alt=media&token=d5062f0a-599e-4bd2-a539-1eaf1f8f9ee4",
+    school: "College of Management and Computer Science, Yavatmal",
+    date: "August 2017 - Nov 2020",
+    grade: "8.11 CGPA",
+    desc: "I Completed my BCA at College of Management and Computer Science, Yavatmal, where I studied  with Computer Science.",
+    degree: "Bachelor of Computer Application, Science with Computer",
+  },
+
+  {
+    id: 2,
+    img: "https://firebasestorage.googleapis.com/v0/b/ikramsayyedportfolio.appspot.com/o/MB%20khan%20LOgo.jpeg?alt=media&token=af60dcf2-b79f-4408-855d-a3a3047bd599",
+    school: "M.B. Khan College, Yavatmal",
+    date: "Apr 2016 - Apr 2017",
+   
+    desc: "I completed my class 12 high school education at M.B. Khan College, Yavatmal, where I studied Science with Computer Science.",
+    degree: "HSC(XII), Science with Computer",
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-    school: "Methodist School, Dankuni",
-    date: "Apr 2019 - Apr 2025",
-    grade: "88.2%",
-    desc: "I completed my class 12 high school education at Methodist School, Dankuni, where I studied Science with Computer Science.",
-    degree: "ISC(XII), Science with Computer",
-  },
-  {
-    id: 2,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
-    school: "Methodist School, Dankuni",
-    date: "Apr 2017 - Apr 2019",
-    grade: "92.3%",
-    desc: "I completed my class 10 education at Methodist School, Dankuni, where I studied Science with Computer Application.",
-    degree: "ICSC(X), Science with Computer",
+    img: "https://firebasestorage.googleapis.com/v0/b/ikramsayyedportfolio.appspot.com/o/GEMS%20logo.jpeg?alt=media&token=748b6bc5-9314-4e73-a78e-931c31c1eb2c",
+    school: "Glorious English Medium  School, Yavatmal",
+    date: "Apr 2014 - Apr 2015",
+    
+    desc: "I completed my class 10 education at Glorious English Medium School, Yavatmal, where I studied Science with Computer Application.",
+    degree: "SSC(X), Science with Computer",
   },
 ];
 
 export const projects = [
   {
     id: 9,
-    title: "Trackify",
+    title: "Weather Forecast App",
     date: "Jun 2023 - Jul 2023",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "The Weather Forecast App is a comprehensive weather tracking and forecasting application built on the MERN stack, offering users accurate and up-to-date weather information for locations worldwide. With its intuitive user interface and rich features, this app provides a seamless weather experience. ",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "https://firebasestorage.googleapis.com/v0/b/ikramsayyedportfolio.appspot.com/o/ss%20of%20project%2Fproject-img3%20-%20Copy.png?alt=media&token=7a57a62b-6d42-4080-ae0f-a7bcde36b30b",
     tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
+     
       "React Js",
       "MongoDb",
       "Node Js",
@@ -335,44 +318,30 @@ export const projects = [
       "Redux",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
-    webapp: "https://trackify.duckdns.org",
+    github: "https://github.com/Ikramsayyed4321/weatherapp",
+    webapp: "https://ikkuweatherapp.netlify.app",
   },
   {
     id: 0,
-    title: "Podstream",
+    title: "Podsplayer",
     date: "Apr 2023 - May 2023",
     description:
-      "Developed a full-stack web application that allows users to search for, play, and pause their favorite podcasts on demand and create podcasts. Implemented user authentication using Google Auth and Jwt Auth, made responsive user interface with React JS that provides users with a seamless experience across all devices. Practiced agile methodologies to optimize team efficiency and communication.",
+      "The MERN Music Player is a cutting-edge music streaming and management application that provides music enthusiasts with a seamless and immersive listening experience. It combines the power of the MERN stack with rich multimedia capabilities to offer a feature-packed music platform..",
     image:
-      "https://user-images.githubusercontent.com/64485885/234602896-a1bd8bcc-b72b-4821-83d6-8ad885bf435e.png",
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Podstream",
-    webapp: "https://podstream.netlify.app/",
-    member: [
-      {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
-      },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
-    ],
+      "https://firebasestorage.googleapis.com/v0/b/ikramsayyedportfolio.appspot.com/o/ss%20of%20project%2Fproject-img2.png?alt=media&token=6e3ef3cb-8598-46c2-9ce2-dd69d6cd19c2",
+    tags: ["React Js", "Javascript",  "HTML", "CSS"],
+    category: "Beginer Project",
+    github: "https://github.com/Ikramsayyed4321/Musicplayer",
+    webapp: "musicplayeryee.netlify.app",
   },
   {
     id: 1,
-    title: "Vexa",
-    date: "Oct 2022 - Present",
+    title: "JobFit Builder",
+    date: "Oct 2022 - November 2022",
     description:
-      "Designed and developed the Vexa project, a project management app that helps users and teams stay organized and on track. Implemented key features such as task tracking, team collaboration, and time tracking to improve productivity and project outcomes and also invite team/project members. The plan is to add a community of users where they can find developers and other team members and chat system implementation.",
+      "The Resume Builder is a powerful online tool that empowers users to craft impressive and tailored resumes effortlessly. It simplifies the often daunting task of resume creation by providing an intuitive interface and a wide range of customizable templates..",
     image:
-      "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
+      "https://firebasestorage.googleapis.com/v0/b/ikramsayyedportfolio.appspot.com/o/ss%20of%20project%2Fproject-img1.png?alt=media&token=94a21303-2b50-48c8-a066-b1f23a1c3be7",
     tags: [
       "React Js",
       "MongoDb",
@@ -382,34 +351,29 @@ export const projects = [
       "NodeMailer",
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Project-Management-App",
-    webapp: "https://vexa-app.netlify.app/",
+    github: "https://github.com/Ikramsayyed4321/Resumebuilderapp",
+    webapp: "https://ikkuresumebuilder.netlify.app",
   },
   {
     id: 2,
-    title: "Brain Tumor Detection",
+    title: "Pizza2Night",
     date: "Jan 2023 - Mar 2023",
     description:
-      "Preprocessed and augmented the dataset to improve model accuracy, trained the model, created API using model and Python, and used React web app for the project's front end. Achievements: Achieved an accuracy of 99.2% to accurately detect brain tumors from medical images.",
+      "The MERN Pizza Ordering App is a modern and user-friendly web application that simplifies the process of ordering delicious pizzas online. This app leverages the power of the MERN stack to provide a seamless experience for both customers and restaurant owners.",
     image:
-      "https://github.com/rishavchanda/Brain-Tumor-Detection/raw/main/Readme_resource/Image2.png",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-    category: "machine learning",
-    github: "https://github.com/rishavchanda/Brain-Tumor-Detection",
-    webapp: "https://brain-tumor.netlify.app/",
+      "https://firebasestorage.googleapis.com/v0/b/ikramsayyedportfolio.appspot.com/o/ss%20of%20project%2Fluhome.png?alt=media&token=292d124c-7680-4a8a-bf32-d3c419128147",
+    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
+    category: "web app",
+    github: "https://github.com/Ikramsayyed4321/pizza2nightfooddelivery",
+    webapp: "",
     member: [
       {
-        name: "Rishav Chanda",
-        img: "https://avatars.githubusercontent.com/u/64485885?v=4",
-        linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
-        github: "https://github.com/rishavchanda/",
+        name: "Ikram Sayyed",
+        img: "https://firebasestorage.googleapis.com/v0/b/ikramsayyedportfolio.appspot.com/o/ss%20of%20project%2Fluhome.png?alt=media&token=292d124c-7680-4a8a-bf32-d3c419128147",
+        linkedin: "",
+        github: "https://github.com/Ikramsayyed4321/pizza2nightfooddelivery",
       },
-      {
-        name: "Upasana Chaudhuri",
-        img: "https://avatars.githubusercontent.com/u/100614635?v=4",
-        linkedin: "https://www.linkedin.com/in/upasana-chaudhuri-2a2bb5231/",
-        github: "https://github.com/upasana0710",
-      },
+    
     ],
   },
   {
@@ -421,7 +385,7 @@ export const projects = [
     image:
       "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
     tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
-    category: "android app",
+    category: "Beginer Project",
     github: "https://github.com/rishavchanda/Buckoid-Android-App",
     webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
   },
@@ -466,29 +430,29 @@ export const projects = [
   },
   {
     id: 6,
-    title: "Breaking Bad",
-    date: "Jun 2021",
+    title: "Calcify",
+    date: "Jun 2023",
     description:
-      "A simple react app that shows the characters of the famous TV series Breaking Bad. It uses the Breaking Bad API to fetch the data. It also has a search bar to search for a particular character.",
+      "A simple  calculator app is a user-friendly application designed to perform basic arithmetic calculations. It typically features a clean and intuitive user interface.",
     image:
-      "https://camo.githubusercontent.com/cd07010cbeb90cb1b43a5d6162784326aef02210ef7d41a0f9ae043b3e392378/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f746f646f2d6170702d63386331392e61707073706f742e636f6d2f6f2f53637265656e73686f7425323028313534292e706e673f616c743d6d6564696126746f6b656e3d65613439383630632d303435362d343333342d616435372d336239346663303333363263",
-    tags: ["React Js", "API", "Axios", "Node JS"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Breaking-Bad",
-    webapp: "https://breaking-bad-webapp.netlify.app",
+      "https://firebasestorage.googleapis.com/v0/b/ikramsayyedportfolio.appspot.com/o/ss%20of%20project%2FScreenshot%20(23).png?alt=media&token=c600f1bd-efa4-420d-af68-0b01f4180f12",
+    tags: [" Js", "HTML", "CSS", "React JS"],
+    category: "Beginer Project",
+    github: "https://github.com/Ikramsayyed4321/calculatorglass",
+    webapp: "https://ikkucalci.netlify.app",
   },
   {
     id: 7,
     title: "Quiz App",
-    date: "Dec 2020 - Jan 2021",
+    date: "Dec 2022 - Jan 2023",
     description:
-      "A android quiz app made with Java and Firebase. It has a login page where users can log in with their Google account. It has a sidebar where users can see all the quiz categories and can create a new quiz. It has a leaderboard where users can see the top 10 scorers. It has a search bar where users can search for a particular quiz.",
+      "A quiz app made with Javascript.",
     image:
-      "https://github-production-user-asset-6210df.s3.amazonaws.com/64485885/239726262-c1b061d1-d9d0-42ef-9f1c-0412d14bc4f6.gif",
-    tags: ["Java", "Android Studio", "Firebase", "Google Auth"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Quiz-Earn",
-    webapp: "https://github.com/rishavchanda/Quiz-Earn",
+      "https://firebasestorage.googleapis.com/v0/b/ikramsayyedportfolio.appspot.com/o/ss%20of%20project%2FScreenshot%20(123).png?alt=media&token=0a6ce3a5-b1d8-45d5-b907-4429b3af456d",
+    tags: ["Javascript", "HTML", "CSS"],
+    category: "Beginer Project",
+    github: "https://github.com/Ikramsayyed4321/Quizapp",
+    webapp: "https://ikkuquizapp.netlify.app",
   },
   {
     id: 8,

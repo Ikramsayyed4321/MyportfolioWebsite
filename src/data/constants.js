@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Ikramsayyed4321",
   resume:
-    "https://drive.google.com/file/d/1etuiAzHGcMHC6FtL9ak8qy6Tg7PpKwuN/view?usp=drivesdk",
+    "https://drive.google.com/file/d/1vfY82Hq_fXlgyXInMxfmmgcpYYCQe5eC/view?usp=drivesdk",
   linkedin: "https://www.linkedin.com/in/sayyed-ikram-501561245",
   twitter: "https://x.com/SayyedIkram7860",
   insta: "https://instagram.com/ikramsayyed143?igshid=OGQ5ZDc2ODk2ZA==",
@@ -317,7 +317,7 @@ export const projects = [
       "Express Js",
       "Redux",
     ],
-    category: "web app",
+    category: "Intermediate Projects",
     github: "https://github.com/Ikramsayyed4321/weatherapp",
     webapp: "https://ikkuweatherapp.netlify.app",
   },
@@ -350,7 +350,7 @@ export const projects = [
       "Redux",
       "NodeMailer",
     ],
-    category: "web app",
+    category: "Intermediate Projects",
     github: "https://github.com/Ikramsayyed4321/Resumebuilderapp",
     webapp: "https://ikkuresumebuilder.netlify.app",
   },
@@ -363,7 +363,7 @@ export const projects = [
     image:
       "https://firebasestorage.googleapis.com/v0/b/ikramsayyedportfolio.appspot.com/o/ss%20of%20project%2Fluhome.png?alt=media&token=292d124c-7680-4a8a-bf32-d3c419128147",
     tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Redux"],
-    category: "web app",
+    category: "MERN Stack",
     github: "https://github.com/Ikramsayyed4321/pizza2nightfooddelivery",
     webapp: "",
     member: [
@@ -376,44 +376,34 @@ export const projects = [
     
     ],
   },
+  
+
+
   {
     id: 3,
-    title: "Buckoid",
-    date: "Dec 2021 - Apr 2022",
+    title: "Doctor Appointment System",
+    date: "Sept 2023",
     description:
-      "App Is Currently In Playstore 100+ Downloads. This Project proposes an “Expense Tracking App”. Keep track of your personal expenses and compare them to your monthly income with the budget planner. It has Google Drive Cloud API for Backup of User Room Database. Made with Kotlin in MVVM Architecture & Live Data.",
+      "The Doctor Appointment Management System is a modern web application developed using the MERN stack. It provides a user-friendly and efficient platform for patients to book medical appointments with healthcare providers while helping healthcare professionals manage their schedules effectively.",
     image:
-      "https://camo.githubusercontent.com/fbf405040ae86b5d4a40f24e4ac034982cb8c0e2d850560ba64527997b258be8/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6c6f67696e2d65613565322e61707073706f742e636f6d2f6f2f4255434b4f49442532302831292e706e673f616c743d6d6564696126746f6b656e3d32653735376235372d323964372d346263612d613562322d653164346538313432373435",
-    tags: ["Kotlin", "MVVM", "Room Database", "Google Drive Cloud API"],
-    category: "Beginer Project",
-    github: "https://github.com/rishavchanda/Buckoid-Android-App",
-    webapp: "https://play.google.com/store/apps/details?id=com.rishav.buckoid",
-  },
-  {
-    id: 10,
-    title: "Job Finding App",
-    date: "Jun 2023 - Jul 2023",
-    description:
-      "A Job Finding App made with React Native, Axios. Users can search for any job coming from API and apply there.",
-    image:
-      "https://user-images.githubusercontent.com/64485885/255237090-cf798a2c-1b41-4bb7-b904-b5353a1f08e8.png",
-    tags: ["React Native", "JavaScript", "Axios"],
-    category: "android app",
-    github: "https://github.com/rishavchanda/Job-finder-App",
-    webapp: "https://github.com/rishavchanda/Job-finder-App",
+      "https://firebasestorage.googleapis.com/v0/b/ikramsayyedportfolio.appspot.com/o/ss%20of%20project%2FScreenshot%20(126).png?alt=media&token=6f4f47a8-81e2-4415-8435-d35ba72cf91d&_gl=1*1py1sn6*_ga*MTUzMjMwOTkwLjE2ODgzMDg2NzA.*_ga_CW55HF8NVT*MTY5NjUwNDg3MS4xMi4xLjE2OTY1MDQ5OTIuNDAuMC4w",
+    tags: ["React Js", "MongoDB", "Express", "Node JS"],
+    category: "MERN Stack",
+    github: "https://github.com/Ikramsayyed4321/Doctorsappointment",
+    webapp: "",
   },
   {
     id: 4,
-    title: "Whatsapp Clone",
-    date: "Jul 2021",
+    title: "Netflix Clone",
+    date: "Jan 2023",
     description:
-      "A WhatsApp clone made with React JS, Firebase, and Material UI. It has Phone Authentication, Real-time Database. It has a chat room where users can chat with each other. It has a sidebar where users can see all the chat rooms and can create a new chat room. It has a login page where users can log in with their Google account.",
+      "A Netflix clone made with React JS, Firebase. It has  Real-time Database. It allows users to browse a catalog of Movies and TV Shows and simulate the experience of streaming content Online. It has a login page where users can log in with their Google account.",
     image:
-      "https://firebasestorage.googleapis.com/v0/b/whatsapp-clone-rishav.appspot.com/o/Screenshot%20(151).png?alt=media&token=48391593-1ef0-4a8c-a92a-eb82bdf38e89",
+      "https://firebasestorage.googleapis.com/v0/b/ikramsayyedportfolio.appspot.com/o/ss%20of%20project%2FNetflixfrontpage.png?alt=media&token=ad0ebc14-cbe4-4aa5-a170-87efd52a7357&_gl=1*70sz03*_ga*MTUzMjMwOTkwLjE2ODgzMDg2NzA.*_ga_CW55HF8NVT*MTY5NjUwNDg3MS4xMi4xLjE2OTY1MDUwOTEuNTUuMC4w",
     tags: ["React Js", "Firebase", "Firestore", "Node JS"],
-    category: "web app",
-    github: "https://github.com/rishavchanda/Whatsapp-Clone-React-Js",
-    webapp: "https://whatsapp-clone-rishav.web.app",
+    category: "MERN Stack",
+    github: "https://github.com/Ikramsayyed4321/Netflix-clone",
+   
   },
   {
     id: 5,
@@ -456,16 +446,16 @@ export const projects = [
   },
   {
     id: 8,
-    title: "Face Recognition",
-    date: "Jan 2021",
+    title: "Expense Management System",
+    date: "March 2023",
     description:
-      "A Face recognition python app made with OpenCV. It uses face_recognition library to detect faces. It uses the webcam to detect faces. It also has a search bar to search for a particular face.",
+      " The Expense Management System is a modern web application built using the MERN stack, which aims to simplify the process of tracking and managing expenses. It provides users with an efficient and user-friendly platform to record, categorize, and analyze their financial transactions.",
     image:
-      "https://camo.githubusercontent.com/a8b3e1ebf26d4c95f75bc6671189a3590eb67eb8332d7c7452492990e731efb9/68747470733a2f2f77617265686f7573652d63616d6f2e696e67726573732e636d68312e707366686f737465642e6f72672f356137383335396561323762643261633232336437656662306639303831306437373930383436312f363837343734373037333361326632663633366336663735363432653637363937343638373536323735373336353732363336663665373436353665373432653633366636643266363137333733363537343733326633383339333633363339333232663332333433343333333033333339333832663333333636363330363533333636333032643331333336333632326433313331363533373264333833323335333832643334363433303633333936333635333136353334333133393265363736393636",
-    tags: ["Python", "Keras", "TensorFlow", "VGG16", "Pickle", "React"],
-    category: "machine learning",
-    github: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
-    webapp: "https://github.com/rishavchanda/Face-Recodnition-AI-with-Python",
+      "https://firebasestorage.googleapis.com/v0/b/ikramsayyedportfolio.appspot.com/o/ss%20of%20project%2FScreenshot%20(129).png?alt=media&token=2112cc99-5c1d-4374-a0a4-e519d43805d0&_gl=1*1tykl2o*_ga*MTUzMjMwOTkwLjE2ODgzMDg2NzA.*_ga_CW55HF8NVT*MTY5NjUwNDg3MS4xMi4xLjE2OTY1MDYwMzcuNDcuMC4w",
+    tags: ["Node.js", "Express", "Mongodb", "HTML 5", "css", "React"],
+    category: "MERN Stack",
+    github: "https://github.com/Ikramsayyed4321/Expensemanagementsystem",
+    webapp: "",
   },
 ];
 

@@ -12,7 +12,7 @@ const Projects = ({openModal,setOpenModal}) => {
       <Wrapper>
         <Title>Projects</Title>
         <Desc>
-          I have worked on a wide range of projects. From web apps to android apps. Here are some of my projects.
+          I have worked on a wide range of projects From beginners project to Full Stack Mern Projects. Here are some of my projects with source code and you can also watch the live web app by cliking on view live app button.
         </Desc>
         <ToggleButtonGroup >
           {toggle === 'all' ?
@@ -21,10 +21,10 @@ const Projects = ({openModal,setOpenModal}) => {
             <ToggleButton value="all" onClick={() => setToggle('all')}>All</ToggleButton>
           }
           <Divider />
-          {toggle === 'web app' ?
-            <ToggleButton active value="web app" onClick={() => setToggle('web app')}>WEB APP'S</ToggleButton>
+          {toggle === 'MERN Stack' ?
+            <ToggleButton active value="MERN Stack" onClick={() => setToggle('MERN Stack')}>MERN Stack</ToggleButton>
             :
-            <ToggleButton value="web app" onClick={() => setToggle('web app')}>WEB APP'S</ToggleButton>
+            <ToggleButton value="MERN Stack" onClick={() => setToggle('MERN Stack')}>MERN Stack</ToggleButton>
           }
           <Divider />
           {toggle === 'Beginer Project' ?
@@ -33,10 +33,10 @@ const Projects = ({openModal,setOpenModal}) => {
             <ToggleButton value="Beginer Project" onClick={() => setToggle('Beginer Project')}>Beginer Projects</ToggleButton>
           }
           <Divider />
-          {toggle === 'machine learning' ?
-            <ToggleButton active value="machine learning" onClick={() => setToggle('machine learning')}>MACHINE LEARNING</ToggleButton>
+          {toggle === 'Intermediate Projects' ?
+            <ToggleButton active value="Intermediate Projects" onClick={() => setToggle('Intermediate Projects')}>Intermediate Projects</ToggleButton>
             :
-            <ToggleButton value="machine learning" onClick={() => setToggle('machine learning')}>MACHINE LEARNING</ToggleButton>
+            <ToggleButton value="Intermediate Projects" onClick={() => setToggle('Intermediate Projects')}>Intermediate Projects</ToggleButton>
           }
         </ToggleButtonGroup>
         <CardContainer>
